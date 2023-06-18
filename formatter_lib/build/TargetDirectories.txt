@@ -1,0 +1,3 @@
+/home/maxim/CMakeFiles/rebuild_cache.dir
+/home/maxim/CMakeFiles/edit_cache.dir
+/home/maxim/CMakeFiles/formatterExe.dir
